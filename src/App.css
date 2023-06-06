@@ -1,5 +1,5 @@
 .App {
-  background-color: #FDF6F9;
+  background-color: white;
   text-align: center;
 
 }
@@ -24,7 +24,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: #FDF6F9;
+  color: white;
 }
 
 .App-link {
@@ -46,10 +46,10 @@
   margin-bottom: 0;
 }
 .component1 {
-  margin-top: 90px; /* Đặt khoảng cách mong muốn */
+  margin-top: 90px; 
 }
 
 .component2 {
   position: relative;
-  top: 40px; /* Đặt khoảng cách mong muốn */
+  top: 40px; 
 }
